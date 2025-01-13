@@ -1,0 +1,467 @@
+{
+    "type": "FeatureCollection",
+    "version": "7.0.0",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -85.73855,
+                        38.34706
+                    ],
+                    [
+                        -85.7404,
+                        38.34645
+                    ],
+                    [
+                        -85.74168,
+                        38.34623
+                    ],
+                    [
+                        -85.74748,
+                        38.34608
+                    ]
+                ]
+            },
+            "properties": {
+                "color": "lime",
+                "speed": "57",
+                "linkid": "I-265W WB @ 7.61mm",
+                "assettype": "speed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -85.73855,
+                        38.34706
+                    ],
+                    [
+                        -85.7404,
+                        38.34645
+                    ],
+                    [
+                        -85.74168,
+                        38.34623
+                    ],
+                    [
+                        -85.74748,
+                        38.34608
+                    ]
+                ]
+            },
+            "properties": {
+                "color": "lime",
+                "speed": "57",
+                "linkid": "I-265W WB @ 7.61mm",
+                "assettype": "speed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -85.72615,
+                        38.34766
+                    ],
+                    [
+                        -85.73026,
+                        38.34884
+                    ],
+                    [
+                        -85.73166,
+                        38.34894
+                    ],
+                    [
+                        -85.7332,
+                        38.3488
+                    ]
+                ]
+            },
+            "properties": {
+                "color": "lime",
+                "speed": "63",
+                "linkid": "I-265W WB @ 8.31mm",
+                "assettype": "speed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -85.72615,
+                        38.34766
+                    ],
+                    [
+                        -85.73026,
+                        38.34884
+                    ],
+                    [
+                        -85.73166,
+                        38.34894
+                    ],
+                    [
+                        -85.7332,
+                        38.3488
+                    ]
+                ]
+            },
+            "properties": {
+                "color": "lime",
+                "speed": "63",
+                "linkid": "I-265W WB @ 8.31mm",
+                "assettype": "speed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -85.7182,
+                        38.34495
+                    ],
+                    [
+                        -85.71544,
+                        38.34429
+                    ],
+                    [
+                        -85.71149,
+                        38.34403
+                    ]
+                ]
+            },
+            "properties": {
+                "color": "lime",
+                "speed": "55",
+                "linkid": "I-265E EB @ 8.78mm",
+                "assettype": "speed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -85.7182,
+                        38.34495
+                    ],
+                    [
+                        -85.71544,
+                        38.34429
+                    ],
+                    [
+                        -85.71149,
+                        38.34403
+                    ]
+                ]
+            },
+            "properties": {
+                "color": "lime",
+                "speed": "55",
+                "linkid": "I-265E EB @ 8.78mm",
+                "assettype": "speed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -85.73387,
+                        38.34838
+                    ],
+                    [
+                        -85.73233,
+                        38.34866
+                    ],
+                    [
+                        -85.73072,
+                        38.34864
+                    ],
+                    [
+                        -85.72986,
+                        38.34848
+                    ],
+                    [
+                        -85.72666,
+                        38.34753
+                    ]
+                ]
+            },
+            "properties": {
+                "color": "lime",
+                "speed": "62",
+                "linkid": "I-265E EB @ 7.88mm",
+                "assettype": "speed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -85.73387,
+                        38.34838
+                    ],
+                    [
+                        -85.73233,
+                        38.34866
+                    ],
+                    [
+                        -85.73072,
+                        38.34864
+                    ],
+                    [
+                        -85.72986,
+                        38.34848
+                    ],
+                    [
+                        -85.72666,
+                        38.34753
+                    ]
+                ]
+            },
+            "properties": {
+                "color": "lime",
+                "speed": "62",
+                "linkid": "I-265E EB @ 7.88mm",
+                "assettype": "speed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -85.73842,
+                        38.34686
+                    ],
+                    [
+                        -85.73387,
+                        38.34838
+                    ]
+                ]
+            },
+            "properties": {
+                "color": "lime",
+                "speed": "63",
+                "linkid": "I-265E EB @ 7.61mm",
+                "assettype": "speed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -85.73842,
+                        38.34686
+                    ],
+                    [
+                        -85.73387,
+                        38.34838
+                    ]
+                ]
+            },
+            "properties": {
+                "color": "lime",
+                "speed": "63",
+                "linkid": "I-265E EB @ 7.61mm",
+                "assettype": "speed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -85.7332,
+                        38.3488
+                    ],
+                    [
+                        -85.73855,
+                        38.34706
+                    ]
+                ]
+            },
+            "properties": {
+                "color": "lime",
+                "speed": "63",
+                "linkid": "I-265W WB @ 7.93mm",
+                "assettype": "speed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -85.7332,
+                        38.3488
+                    ],
+                    [
+                        -85.73855,
+                        38.34706
+                    ]
+                ]
+            },
+            "properties": {
+                "color": "lime",
+                "speed": "63",
+                "linkid": "I-265W WB @ 7.93mm",
+                "assettype": "speed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -85.71798,
+                        38.34514
+                    ],
+                    [
+                        -85.72615,
+                        38.34766
+                    ]
+                ]
+            },
+            "properties": {
+                "color": "lime",
+                "speed": "63",
+                "linkid": "I-265W WB @ 8.79mm",
+                "assettype": "speed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -85.71798,
+                        38.34514
+                    ],
+                    [
+                        -85.72615,
+                        38.34766
+                    ]
+                ]
+            },
+            "properties": {
+                "color": "lime",
+                "speed": "63",
+                "linkid": "I-265W WB @ 8.79mm",
+                "assettype": "speed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -85.71149,
+                        38.34403
+                    ],
+                    [
+                        -85.69435,
+                        38.34358
+                    ]
+                ]
+            },
+            "properties": {
+                "color": "lime",
+                "speed": "65",
+                "linkid": "I-265E EB @ 9.16mm",
+                "assettype": "speed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -85.71149,
+                        38.34403
+                    ],
+                    [
+                        -85.69435,
+                        38.34358
+                    ]
+                ]
+            },
+            "properties": {
+                "color": "lime",
+                "speed": "65",
+                "linkid": "I-265E EB @ 9.16mm",
+                "assettype": "speed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -85.72666,
+                        38.34753
+                    ],
+                    [
+                        -85.7182,
+                        38.34495
+                    ]
+                ]
+            },
+            "properties": {
+                "color": "lime",
+                "speed": "61",
+                "linkid": "I-265E EB @ 8.29mm",
+                "assettype": "speed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -85.72666,
+                        38.34753
+                    ],
+                    [
+                        -85.7182,
+                        38.34495
+                    ]
+                ]
+            },
+            "properties": {
+                "color": "lime",
+                "speed": "61",
+                "linkid": "I-265E EB @ 8.29mm",
+                "assettype": "speed"
+            }
+        }
+    ],
+    "timestamp": "2024-04-09T07:50:01.936565-04:00"
+}

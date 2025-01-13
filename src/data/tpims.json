@@ -1,0 +1,463 @@
+{
+    "type": "FeatureCollection",
+    "version": "7.0.0",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.76566,
+                    38.4406
+                ]
+            },
+            "properties": {
+                "icon": "tpims-icon",
+                "title": "I-65 NB @ 12.2",
+                "ontime": "2025-01-08T04:47:00-05:00",
+                "offtime": "2025-01-08T05:02:00-05:00",
+                "message1": "LOW",
+                "message2": "LOW",
+                "message3": " X ",
+                "priority": 9,
+                "asset_type": "tpims",
+                "device_nbr": "1691",
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">I-65/ EXIT 22 @ NB-REST AREA - LOW spaces<br>I-65/ EXIT 73 @ NB-REST AREA - LOW spaces<br>I-65/ EXIT 148 @ NB-REST AREA -  X  spaces</p></div>",
+                "device_label": "1-065-012-2-nb-_-tps-1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.81054,
+                    38.87348
+                ]
+            },
+            "properties": {
+                "icon": "tpims-icon",
+                "title": "I-65 SB @ 43.2",
+                "ontime": "2025-01-08T04:47:00-05:00",
+                "offtime": "2025-01-08T05:02:00-05:00",
+                "message1": "11",
+                "message2": "",
+                "message3": "",
+                "priority": 9,
+                "asset_type": "tpims",
+                "device_nbr": "1685",
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">I-65/ EXIT 22 @ SB-REST AREA - 11 spaces<br><br></p></div>",
+                "device_label": "1-065-043-2-sb-_-tps-1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.90344,
+                    39.03902
+                ]
+            },
+            "properties": {
+                "icon": "tpims-icon",
+                "title": "I-65 NB @ 56.4",
+                "ontime": "2025-01-08T04:47:00-05:00",
+                "offtime": "2025-01-08T05:02:00-05:00",
+                "message1": "LOW",
+                "message2": " X ",
+                "message3": " X ",
+                "priority": 9,
+                "asset_type": "tpims",
+                "device_nbr": "1684",
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">I-65/ EXIT 73 @ NB-REST AREA - LOW spaces<br>I-65/ EXIT 148 @ NB-REST AREA -  X  spaces<br>I-65/ EXIT 196 @ NB-REST AREA -  X  spaces</p></div>",
+                "device_label": "1-065-056-4-nb-_-tps-1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.02502,
+                    39.52174
+                ]
+            },
+            "properties": {
+                "icon": "tpims-icon",
+                "title": "I-65 SB @ 92.4",
+                "ontime": "2025-01-08T04:47:00-05:00",
+                "offtime": "2025-01-08T05:02:00-05:00",
+                "message1": "16",
+                "message2": "11",
+                "message3": "",
+                "priority": 9,
+                "asset_type": "tpims",
+                "device_nbr": "1675",
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">I-65/ EXIT 73 @ SB-REST AREA - 16 spaces<br>I-65/ EXIT 22 @ SB-REST AREA - 11 spaces<br></p></div>",
+                "device_label": "1-065-092-4-sb-_-tps-1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.36838,
+                    39.95957
+                ]
+            },
+            "properties": {
+                "icon": "tpims-icon",
+                "title": "I-65 NB @ 131.3",
+                "ontime": "2025-01-08T04:47:00-05:00",
+                "offtime": "2025-01-08T05:02:00-05:00",
+                "message1": " X ",
+                "message2": " X ",
+                "message3": "19",
+                "priority": 9,
+                "asset_type": "tpims",
+                "device_nbr": "1672",
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">I-65/ EXIT 148 @ NB-REST AREA -  X  spaces<br>I-65/ EXIT 196 @ NB-REST AREA -  X  spaces<br>I-65/ EXIT 231 @ NB-REST AREA - 19 spaces</p></div>",
+                "device_label": "1-065-131-3-nb-_-tps-1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.77078,
+                    40.35105
+                ]
+            },
+            "properties": {
+                "icon": "tpims-icon",
+                "title": "I-65 SB @ 166.7",
+                "ontime": "2025-01-08T04:47:00-05:00",
+                "offtime": "2025-01-08T05:02:00-05:00",
+                "message1": " X ",
+                "message2": "16",
+                "message3": "11",
+                "priority": 9,
+                "asset_type": "tpims",
+                "device_nbr": "1683",
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">I-65/ EXIT 149 @ SB-REST AREA -  X  spaces<br>I-65/ EXIT 73 @ SB-REST AREA - 16 spaces<br>I-65/ EXIT 22 @ SB-REST AREA - 11 spaces</p></div>",
+                "device_label": "1-065-166-7-sb-_-tps-1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.89188,
+                    40.51217
+                ]
+            },
+            "properties": {
+                "icon": "tpims-icon",
+                "title": "I-65 NB @ 180.0",
+                "ontime": "2025-01-08T04:47:00-05:00",
+                "offtime": "2025-01-08T05:02:00-05:00",
+                "message1": " X ",
+                "message2": "19",
+                "message3": "",
+                "priority": 9,
+                "asset_type": "tpims",
+                "device_nbr": "1682",
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">I-65/ EXIT 196 @ NB-REST AREA -  X  spaces<br>I-65/ EXIT 231 @ NB-REST AREA - 19 spaces<br></p></div>",
+                "device_label": "1-065-180-0-nb-_-tps-1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.19479,
+                    40.87691
+                ]
+            },
+            "properties": {
+                "icon": "tpims-icon",
+                "title": "I-65 NB @ 210.1",
+                "ontime": "2025-01-08T04:47:00-05:00",
+                "offtime": "2025-01-08T05:02:00-05:00",
+                "message1": "19",
+                "message2": "",
+                "message3": "",
+                "priority": 9,
+                "asset_type": "tpims",
+                "device_nbr": "1680",
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">I-65/ EXIT 231 @ NB-REST AREA - 19 spaces<br><br></p></div>",
+                "device_label": "1-065-210-1-nb-_-tps-1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.25703,
+                    40.98476
+                ]
+            },
+            "properties": {
+                "icon": "tpims-icon",
+                "title": "I-65 SB @ 218.4",
+                "ontime": "2025-01-08T04:47:00-05:00",
+                "offtime": "2025-01-08T05:02:00-05:00",
+                "message1": " X ",
+                "message2": " X ",
+                "message3": "16",
+                "priority": 9,
+                "asset_type": "tpims",
+                "device_nbr": "1681",
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">I-65/ EXIT 196 @ SB-REST AREA -  X  spaces<br>I-65/ EXIT 149 @ SB-REST AREA -  X  spaces<br>I-65/ EXIT 73 @ SB-REST AREA - 16 spaces</p></div>",
+                "device_label": "1-065-218-4-sb-_-tps-1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.32192,
+                    41.4495
+                ]
+            },
+            "properties": {
+                "icon": "tpims-icon",
+                "title": "I-65 SB @ 251.3",
+                "ontime": "2025-01-08T04:47:00-05:00",
+                "offtime": "2025-01-08T05:02:00-05:00",
+                "message1": "103",
+                "message2": " X ",
+                "message3": " X ",
+                "priority": 9,
+                "asset_type": "tpims",
+                "device_nbr": "1689",
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">I-65/ EXIT 231 @ SB-REST AREA - 103 spaces<br>I-65/ EXIT 196 @ SB-REST AREA -  X  spaces<br>I-65/ EXIT 149 @ SB-REST AREA -  X  spaces</p></div>",
+                "device_label": "1-065-251-3-sb-_-tps-1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.6112,
+                    40.05549
+                ]
+            },
+            "properties": {
+                "icon": "tpims-icon",
+                "title": "I-69 NB @ 228.5",
+                "ontime": "2025-01-08T04:47:00-05:00",
+                "offtime": "2025-01-08T05:02:00-05:00",
+                "message1": "LOW",
+                "message2": "7",
+                "message3": "",
+                "priority": 9,
+                "asset_type": "tpims",
+                "device_nbr": "1686",
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">I-69/ EXIT 250 @ NB-REST AREA - LOW spaces<br>I-69/ EXIT 324 @ NB-REST AREA - 7 spaces<br></p></div>",
+                "device_label": "1-069-228-5-nb-_-tps-1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.53667,
+                    40.61058
+                ]
+            },
+            "properties": {
+                "icon": "tpims-icon",
+                "title": "I-69 SB @ 268.2",
+                "ontime": "2025-01-08T04:47:00-05:00",
+                "offtime": "2025-01-08T05:02:00-05:00",
+                "message1": "LOW",
+                "message2": "",
+                "message3": "",
+                "priority": 9,
+                "asset_type": "tpims",
+                "device_nbr": "1687",
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">I-69/ EXIT 250 @ SB-REST AREA - LOW spaces<br><br></p></div>",
+                "device_label": "1-069-268-2-sb-_-tps-1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.24277,
+                    41.05751
+                ]
+            },
+            "properties": {
+                "icon": "tpims-icon",
+                "title": "I-69 NB @ 303.8",
+                "ontime": "2025-01-08T04:47:00-05:00",
+                "offtime": "2025-01-08T05:02:00-05:00",
+                "message1": "7",
+                "message2": "",
+                "message3": "",
+                "priority": 9,
+                "asset_type": "tpims",
+                "device_nbr": "1688",
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">I-69/ EXIT 324 @ NB-REST AREA - 7 spaces<br><br></p></div>",
+                "device_label": "1-069-303-8-nb-_-tps-1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.76759,
+                    39.53753
+                ]
+            },
+            "properties": {
+                "icon": "tpims-icon",
+                "title": "I-70 EB @ 43.1",
+                "ontime": "2025-01-08T04:47:00-05:00",
+                "offtime": "2025-01-08T05:02:00-05:00",
+                "message1": "6",
+                "message2": "LOW",
+                "message3": "",
+                "priority": 9,
+                "asset_type": "tpims",
+                "device_nbr": "1677",
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">I-70/ EXIT 64 @ EB-REST AREA - 6 spaces<br>I-70/ EXIT 107 @ EB-REST AREA - LOW spaces<br></p></div>",
+                "device_label": "1-070-043-1-eb-_-tps-1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.31738,
+                    39.69096
+                ]
+            },
+            "properties": {
+                "icon": "tpims-icon",
+                "title": "I-70 WB @ 69.7",
+                "ontime": "2025-01-08T04:47:00-05:00",
+                "offtime": "2025-01-08T05:02:00-05:00",
+                "message1": "10",
+                "message2": "",
+                "message3": "",
+                "priority": 9,
+                "asset_type": "tpims",
+                "device_nbr": "1692",
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">I-70/ EXIT 64 @ WB-REST AREA - 10 spaces<br><br></p></div>",
+                "device_label": "1-070-069-7-wb-_-tps-1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.9723,
+                    39.80284
+                ]
+            },
+            "properties": {
+                "icon": "tpims-icon",
+                "title": "I-70 EB @ 92.7",
+                "ontime": "2025-01-08T04:47:00-05:00",
+                "offtime": "2025-01-08T05:02:00-05:00",
+                "message1": "LOW",
+                "message2": "",
+                "message3": "",
+                "priority": 9,
+                "asset_type": "tpims",
+                "device_nbr": "1674",
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">I-70/ EXIT 107 @ EB-REST AREA - LOW spaces<br><br></p></div>",
+                "device_label": "1-070-092-7-eb-_-tps-1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.21878,
+                    39.85384
+                ]
+            },
+            "properties": {
+                "icon": "tpims-icon",
+                "title": "I-70 WB @ 133.4",
+                "ontime": "2025-01-08T04:47:00-05:00",
+                "offtime": "2025-01-08T05:02:00-05:00",
+                "message1": "LOW",
+                "message2": "10",
+                "message3": "",
+                "priority": 9,
+                "asset_type": "tpims",
+                "device_nbr": "1678",
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">I-70/ EXIT 107 @ WB-REST AREA - LOW spaces<br>I-70/ EXIT 64 @ WB-REST AREA - 10 spaces<br></p></div>",
+                "device_label": "1-070-133-4-wb-_-tps-1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.83393,
+                    39.84975
+                ]
+            },
+            "properties": {
+                "icon": "tpims-icon",
+                "title": "I-70 WB @ 154.5",
+                "ontime": "2025-01-08T04:47:00-05:00",
+                "offtime": "2025-01-08T05:02:00-05:00",
+                "message1": "LOW",
+                "message2": "LOW",
+                "message3": "10",
+                "priority": 9,
+                "asset_type": "tpims",
+                "device_nbr": "1679",
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">I-70/ EXIT 144 @ WB-REST AREA - LOW spaces<br>I-70/ EXIT 107 @ WB-REST AREA - LOW spaces<br>I-70/ EXIT 64 @ WB-REST AREA - 10 spaces</p></div>",
+                "device_label": "1-070-154-5-wb-_-tps-1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.77169,
+                    39.39917
+                ]
+            },
+            "properties": {
+                "icon": "tpims-icon",
+                "title": "IL I-70 EB @ 142.2",
+                "ontime": "2025-01-08T04:47:00-05:00",
+                "offtime": "2025-01-08T05:02:00-05:00",
+                "message1": " X",
+                "message2": "6",
+                "message3": "LOW",
+                "priority": 9,
+                "asset_type": "tpims",
+                "device_nbr": "1676",
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">I-70/ EXIT 1 @ EB-REST AREA -  X spaces<br>I-70/ EXIT 64 @ EB-REST AREA - 6 spaces<br>I-70/ EXIT 107 @ EB-REST AREA - LOW spaces</p></div>",
+                "device_label": "il1-070-142-2-eb-_-tps-1"
+            }
+        }
+    ],
+    "timestamp": "2025-01-08T04:47:47-05:00"
+}

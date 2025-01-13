@@ -1,0 +1,3088 @@
+{
+    "type": "FeatureCollection",
+    "version": "7.0.0",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.376652,
+                    39.96575
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 131.9 dms- 289",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "465 E  7 MI    7 MIN",
+                "message2": "465 S  9 MI    9 MIN",
+                "message3": "I-70  20 MI   22 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 289,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">465 E  7 MI    7 MIN<br>465 S  9 MI    9 MIN<br>I-70  20 MI   22 MIN</p></div>",
+                "device_label": "1-065-131-9-SB-dms"
+            },
+            "idpropertyname": "dms-065-131-9-sb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.102453,
+                    39.684523
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 104.7 dms- 290",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "65 THRU TRAFFIC VIA",
+                "message2": "I-65 18 MI   20 MIN",
+                "message3": "465W 21 MI   23 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 290,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">65 THRU TRAFFIC VIA<br>I-65 18 MI   20 MIN<br>465W 21 MI   23 MIN</p></div>",
+                "device_label": "1-065-104-7-NB-dms"
+            },
+            "idpropertyname": "dms-065-104-7-nb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.018589,
+                    39.94252
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-69 / 203.8 dms- 291",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "   TRAVEL TIME TO   ",
+                "message2": "465W/31 10 MI 10 MIN",
+                "message3": "465S/70 11 MI 11 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 291,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">   TRAVEL TIME TO   <br>465W/31 10 MI 10 MIN<br>465S/70 11 MI 11 MIN</p></div>",
+                "device_label": "1-069-203-8-SB-dms"
+            },
+            "idpropertyname": "dms-1-069-203-7-sb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.875684,
+                    38.30263
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-64 / 120.4 dms- 294",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "TO I-65 VIA",
+                "message2": "I-64    8 MI  10 MIN",
+                "message3": "I-265   8 MI   8 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 294,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">TO I-65 VIA<br>I-64    8 MI  10 MIN<br>I-265   8 MI   8 MIN</p></div>",
+                "device_label": "1-064-120-4-eb-_-dms-1"
+            },
+            "idpropertyname": "dms-064-120-4-eb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.047539,
+                    39.877333
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-465 / 38.2 dms- 299",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "70W THRU TRAFFIC VIA",
+                "message2": "I-70W 25 MI   27 MIN",
+                "message3": "I-465 27 MI   29 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 299,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">70W THRU TRAFFIC VIA<br>I-70W 25 MI   27 MIN<br>I-465 27 MI   29 MIN</p></div>",
+                "device_label": "1-465-038-2-SB-dms"
+            },
+            "idpropertyname": "dms-465-038-2-sb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.090972,
+                    39.915021
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-465 / 34.4 dms- 301",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "TRAVEL TIME TO",
+                "message2": "69/116TH 8 MI  8 MIN",
+                "message3": "465/I-70 9 MI 10 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 301,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">TRAVEL TIME TO<br>69/116TH 8 MI  8 MIN<br>465/I-70 9 MI 10 MIN</p></div>",
+                "device_label": "1-465-034-4-EB-dms"
+            },
+            "idpropertyname": "dms-465-034-4-eb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.090949,
+                    39.915357
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-465 / 34.4 dms- 305",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "US-421  8 MI   8 MIN",
+                "message2": "I-65N  14 MI  14 MIN",
+                "message3": "I-65S  14 MI  15 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 305,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">US-421  8 MI   8 MIN<br>I-65N  14 MI  14 MIN<br>I-65S  14 MI  15 MIN</p></div>",
+                "device_label": "1-465-034-4-WB-dms"
+            },
+            "idpropertyname": "dms-465-034-4-wb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.983622,
+                    39.802485
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-70 / 92.1 dms- 306",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "RURAL  7 MI    7 MIN",
+                "message2": "I-65   9 MI    9 MIN",
+                "message3": "HOLT  16 MI   17 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 306,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">RURAL  7 MI    7 MIN<br>I-65   9 MI    9 MIN<br>HOLT  16 MI   17 MIN</p></div>",
+                "device_label": "1-070-092-1-WB-dms"
+            },
+            "idpropertyname": "dms-070-092-1-wb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.096744,
+                    39.799571
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-70 / 85.8 dms- 307",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "TO I-465 VIA",
+                "message2": "I-70  13 MI   14 MIN",
+                "message3": "I-65N 13 MI   14 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 307,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">TO I-465 VIA<br>I-70  13 MI   14 MIN<br>I-65N 13 MI   14 MIN</p></div>",
+                "device_label": "1-070-085-8-WB-dms"
+            },
+            "idpropertyname": "dms-070-085-7-wb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.095515,
+                    39.799755
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-70 / 85.7 dms- 308",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "TRAVEL TIME TO",
+                "message2": "70/POST  5 MI  5 MIN",
+                "message3": "465N/69 11 MI 11 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 308,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">TRAVEL TIME TO<br>70/POST  5 MI  5 MIN<br>465N/69 11 MI 11 MIN</p></div>",
+                "device_label": "1-070-085-7-EB-dms"
+            },
+            "idpropertyname": "dms-070-085-8-eb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.236582,
+                    39.832919
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 119.7 dms- 337",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "    TO I-865 VIA    ",
+                "message2": "I-465  8 MI    8 MIN",
+                "message3": "I-65   9 MI    9 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 337,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">    TO I-865 VIA    <br>I-465  8 MI    8 MIN<br>I-65   9 MI    9 MIN</p></div>",
+                "device_label": "1-065-119-7-NB-dms"
+            },
+            "idpropertyname": "dms-065-119-7-nb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.236861,
+                    39.83284
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 119.7 dms- 338",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "    TO I-465 VIA    ",
+                "message2": "I-65  14 MI   14 MIN",
+                "message3": "I-70E 14 MI   15 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 338,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">    TO I-465 VIA    <br>I-65  14 MI   14 MIN<br>I-70E 14 MI   15 MIN</p></div>",
+                "device_label": "1-065-119-7-SB-dms"
+            },
+            "idpropertyname": "dms-065-119-7-sb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.134986,
+                    39.727257
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 108.4 dms- 339",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "CO LN  8 MI   7 MIN",
+                "message2": "SR44  19 MI  17 MIN",
+                "message3": "US31  33 MI  29 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 339,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">CO LN  8 MI   7 MIN<br>SR44  19 MI  17 MIN<br>US31  33 MI  29 MIN</p></div>",
+                "device_label": "1-065-108-4-SB-dms"
+            },
+            "idpropertyname": "dms-065-108-4-sb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.350374,
+                    39.675846
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-70 / 67.6 dms- 340",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "70 THRU TRAFFIC VIA",
+                "message2": "I-70  22 MI   23 MIN",
+                "message3": "465S  24 MI   25 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 340,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">70 THRU TRAFFIC VIA<br>I-70  22 MI   23 MIN<br>465S  24 MI   25 MIN</p></div>",
+                "device_label": "1-070-067-6-EB-dms"
+            },
+            "idpropertyname": "dms-070-067-6-eb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.23864,
+                    39.740615
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-70 / 75.4 dms- 341",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "I-65   6 MI   6 MIN",
+                "message2": "RURAL  9 MI  10 MIN",
+                "message3": "I-465 14 MI  15 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 341,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">I-65   6 MI   6 MIN<br>RURAL  9 MI  10 MIN<br>I-465 14 MI  15 MIN</p></div>",
+                "device_label": "1-070-075-4-EB-dms"
+            },
+            "idpropertyname": "dms-070-075-4-eb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.203807,
+                    39.755979
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-70 / 77.8 dms- 342",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "REAGAN 9 MI    8 MIN",
+                "message2": "SR39  18 MI   17 MIN",
+                "message3": "US231 36 MI   37 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 342,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">REAGAN 9 MI    8 MIN<br>SR39  18 MI   17 MIN<br>US231 36 MI   37 MIN</p></div>",
+                "device_label": "1-070-077-8-WB-dms"
+            },
+            "idpropertyname": "dms-070-077-8-wb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -86.244377034,
+                        39.692822637,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-465 / 7.4 dms- 343",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "US-31   5 MI   5 MIN",
+                "message2": "EMERSON 9 MI   9 MIN",
+                "message3": "I-70  17 MI   18 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 343,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">US-31   5 MI   5 MIN<br>EMERSON 9 MI   9 MIN<br>I-70  17 MI   18 MIN</p></div>",
+                "device_label": "1-465-007-4-EB-dms"
+            },
+            "idpropertyname": "dms-465-007-4-eb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.229211,
+                    39.692298
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-465 / 6.6 dms- 344",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "US-36  6 MI    6 MIN",
+                "message2": "I-74   9 MI   10 MIN",
+                "message3": "I-65  13 MI   14 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 344,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">US-36  6 MI    6 MIN<br>I-74   9 MI   10 MIN<br>I-65  13 MI   14 MIN</p></div>",
+                "device_label": "1-465-006-6-WB-dms"
+            },
+            "idpropertyname": "dms-465-006-6-wb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.060588,
+                    39.709011
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-465 / 50.6 dms- 345",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "US 40  5 MI    5 MIN",
+                "message2": "56TH  11 MI   11 MIN",
+                "message3": "US31  20 MI   21 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 345,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">US 40  5 MI    5 MIN<br>56TH  11 MI   11 MIN<br>US31  20 MI   21 MIN</p></div>",
+                "device_label": "1-465-050-6-EB-dms"
+            },
+            "idpropertyname": "dms-465-050-6-eb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.060707,
+                    39.709196
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-465 / 50.6 dms- 346",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "65N THRU TRAFFIC VIA",
+                "message2": "I-65N 20 MI   21 MIN",
+                "message3": "I-465 23 MI   24 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 346,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">65N THRU TRAFFIC VIA<br>I-65N 20 MI   21 MIN<br>I-465 23 MI   24 MIN</p></div>",
+                "device_label": "1-465-050-6-WB-dms"
+            },
+            "idpropertyname": "dms-465-050-6-wb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.02835,
+                    39.761246
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-465 / 46.5 dms- 347",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "65N THRU TRAFFIC VIA",
+                "message2": "I-465 26 MI   27 MIN",
+                "message3": "I-70W 26 MI   27 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 347,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">65N THRU TRAFFIC VIA<br>I-465 26 MI   27 MIN<br>I-70W 26 MI   27 MIN</p></div>",
+                "device_label": "1-465-046-5-NB-dms"
+            },
+            "idpropertyname": "dms-465-046-5-nb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.979948,
+                    39.68734
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-74 / 98.5 dms- 348",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "   TRAVEL TIME TO   ",
+                "message2": "465N/70  9 MI 10 MIN",
+                "message3": "465S/65  9 MI  9 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 348,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">   TRAVEL TIME TO   <br>465N/70  9 MI 10 MIN<br>465S/65  9 MI  9 MIN</p></div>",
+                "device_label": "1-074-098-5-wb-_-dms"
+            },
+            "idpropertyname": "dms-074-098-5-wb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.752693,
+                    38.304564
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 2.8 dms- 373",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "KY      3 MI   3 MIN",
+                "message2": "I-264   9 MI   9 MIN",
+                "message3": "",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 373,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">KY      3 MI   3 MIN<br>I-264   9 MI   9 MIN<br></p></div>",
+                "device_label": "1-065-002-8-sb-_-dms-2"
+            },
+            "idpropertyname": "dms-065-002-8-sb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.318939,
+                    41.517793
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 256.0 dms- 1281",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "STATE LINES VIA I-94",
+                "message2": "ILL   15 MI   16 MIN",
+                "message3": "MICH  38 MI   34 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1281,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">STATE LINES VIA I-94<br>ILL   15 MI   16 MIN<br>MICH  38 MI   34 MIN</p></div>",
+                "device_label": "1-065-256-0-NB-dms"
+            },
+            "idpropertyname": "dms-065-256-0-nb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.386239,
+                    41.569638
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-94 / 7.4 dms- 1300",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "TRAVEL TIME VIA 65 S",
+                "message2": "US30  11 MI   11 MIN",
+                "message3": "SR 2  24 MI   22 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1300,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">TRAVEL TIME VIA 65 S<br>US30  11 MI   11 MIN<br>SR 2  24 MI   22 MIN</p></div>",
+                "device_label": "1-094-007-4-EB-dms"
+            },
+            "idpropertyname": "dms-094-007-4-eb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.256383,
+                    41.578329
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-94 / 14.2 dms- 1302",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "TRAVEL TIME VIA 65 S",
+                "message2": "US 30  9 MI   10 MIN",
+                "message3": "SR 2  22 MI   21 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1302,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">TRAVEL TIME VIA 65 S<br>US 30  9 MI   10 MIN<br>SR 2  22 MI   21 MIN</p></div>",
+                "device_label": "1-094-014-2-WB-dms"
+            },
+            "idpropertyname": "dms-094-014-2-wb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.321352,
+                    41.434806
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 250.3 dms- 1319",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "   TRAVEL TIME TO   ",
+                "message2": "I-94    9 MI   9 MIN",
+                "message3": "94/ILL 20 MI  20 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1319,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">   TRAVEL TIME TO   <br>I-94    9 MI   9 MIN<br>94/ILL 20 MI  20 MIN</p></div>",
+                "device_label": "1-065-250-3-NB-dms"
+            },
+            "idpropertyname": "1-065-250-3-NB-dms"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.392967,
+                    41.569965
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-94 / 7.0 dms- 1320",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "INDPLS 4 MI    4 MIN",
+                "message2": "I-294 10 MI   10 MIN",
+                "message3": "",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1320,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">INDPLS 4 MI    4 MIN<br>I-294 10 MI   10 MIN<br></p></div>",
+                "device_label": "1-094-007-0-WB-dms"
+            },
+            "idpropertyname": "dms-094-007-0-wb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.292296,
+                    41.471105
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "US 30 / 13.0 dms- 1321",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "FWY TRAVEL TIME TO",
+                "message2": "I-94   7 MI    7 MIN",
+                "message3": "94/ILL 18 MI  19 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1321,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">FWY TRAVEL TIME TO<br>I-94   7 MI    7 MIN<br>94/ILL 18 MI  19 MIN</p></div>",
+                "device_label": "2-030-013-0-WB-dms"
+            },
+            "idpropertyname": "dms-030-013-0-wb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.31404,
+                    41.529762
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 256.9 dms- 1322",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "109TH  8 MI    7 MIN",
+                "message2": "SR10  27 MI   24 MIN",
+                "message3": "US24  55 MI   51 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1322,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">109TH  8 MI    7 MIN<br>SR10  27 MI   24 MIN<br>US24  55 MI   51 MIN</p></div>",
+                "device_label": "1-065-256-9-SB-dms"
+            },
+            "idpropertyname": "dms-065-256-9-sb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.139036,
+                    41.604489
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-94 / 20.7 dms- 1323",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "I-65    9 MI   8 MIN",
+                "message2": "SR912  16 MI  16 MIN",
+                "message3": "ILL    21 MI  21 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1323,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">I-65    9 MI   8 MIN<br>SR912  16 MI  16 MIN<br>ILL    21 MI  21 MIN</p></div>",
+                "device_label": "1-094-020-7-WB-dms"
+            },
+            "idpropertyname": "dms-094-020-7-wb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.45064,
+                    41.574226
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-94 / 3.9 dms- 1324",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "ILL    4 MI    4 MIN",
+                "message2": "I-294  7 MI    7 MIN",
+                "message3": "",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1324,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">ILL    4 MI    4 MIN<br>I-294  7 MI    7 MIN<br></p></div>",
+                "device_label": "1-094-003-9-WB-dms"
+            },
+            "idpropertyname": "dms-094-003-9-wb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.500753,
+                    41.573995
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-94 / 1.3 dms- 1325",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "SR53   9 MI    9 MIN",
+                "message2": "I-90  14 MI   15 MIN",
+                "message3": "SR49  25 MI   24 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1325,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">SR53   9 MI    9 MIN<br>I-90  14 MI   15 MIN<br>SR49  25 MI   24 MIN</p></div>",
+                "device_label": "1-094-001-3-EB-dms"
+            },
+            "idpropertyname": "dms-094-001-3-eb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.300032,
+                    41.582186
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 260.7 dms- 1326",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "US 30  8 MI   8 MIN",
+                "message2": "SR 2  21 MI  19 MIN",
+                "message3": "SR10  31 MI  28 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1326,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">US 30  8 MI   8 MIN<br>SR 2  21 MI  19 MIN<br>SR10  31 MI  28 MIN</p></div>",
+                "device_label": "1-065-260-7-SB-dms"
+            },
+            "idpropertyname": "dms-065-260-7-sb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.104511,
+                    41.2004
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-69 / 317.1 dms- 1352",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "US-30  8 MI    7 MIN",
+                "message2": "US-24  15 MI  13 MIN",
+                "message3": "I-469  21 MI  18 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1352,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">US-30  8 MI    7 MIN<br>US-24  15 MI  13 MIN<br>I-469  21 MI  18 MIN</p></div>",
+                "device_label": "1-069-317-3-SB-dms"
+            },
+            "idpropertyname": "dms-1-069-317-3-s"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.313855,
+                    40.931067
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-69 / 294.0 dms- 1353",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "US24   8 MI    7 MIN",
+                "message2": "US30  15 MI   13 MIN",
+                "message3": "SR-1  22 MI   18 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1353,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">US24   8 MI    7 MIN<br>US30  15 MI   13 MIN<br>SR-1  22 MI   18 MIN</p></div>",
+                "device_label": "1-069-294-2-NB-dms"
+            },
+            "idpropertyname": "dms-1-069-294-2-n"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.299355,
+                    39.885586
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 125.0 dms- 1456",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "    TO I-70 VIA    ",
+                "message2": "I-65  12 MI   14 MIN",
+                "message3": "I-465 12 MI   13 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1456,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">    TO I-70 VIA    <br>I-65  12 MI   14 MIN<br>I-465 12 MI   13 MIN</p></div>",
+                "device_label": "1-065-125-0-SB-dms"
+            },
+            "idpropertyname": "dms-065-125-0-sb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.375479,
+                    39.852153
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-74 / 67.0 dms- 1457",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "   TRAVEL TIME TO   ",
+                "message2": "465N/65 11 MI 11 MIN",
+                "message3": "465S/70 13 MI 13 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1457,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">   TRAVEL TIME TO   <br>465N/65 11 MI 11 MIN<br>465S/70 13 MI 13 MIN</p></div>",
+                "device_label": "1-074-067-0-eb-_-dms"
+            },
+            "idpropertyname": "dms-074-067-0-eb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.269896,
+                    39.893447
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-465 / 22.0 dms- 1458",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "65S THRU TRAFFIC VIA",
+                "message2": "I-65  19 MI   21 MIN",
+                "message3": "I-465 22 MI   24 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1458,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">65S THRU TRAFFIC VIA<br>I-65  19 MI   21 MIN<br>I-465 22 MI   24 MIN</p></div>",
+                "device_label": "1-465-022-0-SB-dms"
+            },
+            "idpropertyname": "dms-465-022-0-sb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.269493,
+                    39.898044
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-465 / 22.3 dms- 1459",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "US421  4 MI    4 MIN",
+                "message2": "US 31  8 MI    8 MIN",
+                "message3": "I-69  14 MI  15 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1459,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">US421  4 MI    4 MIN<br>US 31  8 MI    8 MIN<br>I-69  14 MI  15 MIN</p></div>",
+                "device_label": "1-465-022-3-NB-dms"
+            },
+            "idpropertyname": "dms-465-022-3-nb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.194124,
+                    39.924198
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-465 / 28.7 dms- 1460",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "I-69   8 MI    8 MIN",
+                "message2": "56TH  11 MI   11 MIN",
+                "message3": "I-70  15 MI   16 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1460,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">I-69   8 MI    8 MIN<br>56TH  11 MI   11 MIN<br>I-70  15 MI   16 MIN</p></div>",
+                "device_label": "1-465-028-7-EB-dms"
+            },
+            "idpropertyname": "dms-465-028-7-eb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.194052,
+                    39.924426
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-465 / 28.7 dms- 1461",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "71st   7 MI    7 MIN",
+                "message2": "I-74  13 MI   14 MIN",
+                "message3": "I-70  19 MI   21 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1461,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">71st   7 MI    7 MIN<br>I-74  13 MI   14 MIN<br>I-70  19 MI   21 MIN</p></div>",
+                "device_label": "1-465-028-7-WB-dms"
+            },
+            "idpropertyname": "dms-465-028-7-wb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.01919,
+                    39.941125
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-69 / 203.7 dms- 1462",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "SR13  11 MI   10 MIN",
+                "message2": "SR109 22 MI   20 MIN",
+                "message3": "SR332 37 MI   32 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1462,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">SR13  11 MI   10 MIN<br>SR109 22 MI   20 MIN<br>SR332 37 MI   32 MIN</p></div>",
+                "device_label": "1-069-203-7-NB-dms"
+            },
+            "idpropertyname": "dms-1-069-203-7-nb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.030809,
+                    39.818906
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-465 / 42.3 dms- 1463",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "   TRAVEL TIME TO   ",
+                "message2": "KEYSTONE 9 MI  9 MIN",
+                "message3": "69/106TH 9 MI  9 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1463,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">   TRAVEL TIME TO   <br>KEYSTONE 9 MI  9 MIN<br>69/106TH 9 MI  9 MIN</p></div>",
+                "device_label": "1-465-042-3-nb-_-dms-1"
+            },
+            "idpropertyname": "dms-465-042-3-nb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.029059,
+                    39.764045
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-465 / 46.3 dms- 1464",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "EMERSON 6 MI   6 MIN",
+                "message2": "US-31   9 MI   9 MIN",
+                "message3": "I-70   16 MI  17 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1464,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">EMERSON 6 MI   6 MIN<br>US-31   9 MI   9 MIN<br>I-70   16 MI  17 MIN</p></div>",
+                "device_label": "1-465-046-3-SB-dms"
+            },
+            "idpropertyname": "dms-465-046-3-sb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.135657,
+                    39.729475
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 108.6 dms- 1465",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "21st   6 MI    6 MIN",
+                "message2": "38th   9 MI   10 MIN",
+                "message3": "I-465 15 MI   16 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1465,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">21st   6 MI    6 MIN<br>38th   9 MI   10 MIN<br>I-465 15 MI   16 MIN</p></div>",
+                "device_label": "1-065-108-6-NB-dms"
+            },
+            "idpropertyname": "dms-065-108-6-nb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.757969,
+                    38.37752
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 7.9 dms- 1466",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "KY STATE LINE VIA",
+                "message2": "I-65   8 MI    7 MIN",
+                "message3": "I-64  11 MI   10 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1466,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">KY STATE LINE VIA<br>I-65   8 MI    7 MIN<br>I-64  11 MI   10 MIN</p></div>",
+                "device_label": "1-065-007-9-sb-_-dms-1"
+            },
+            "idpropertyname": "dms-065-007-9-sb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -85.775877121,
+                        38.299518682,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "SR 62 / 147.4 dms- 1467",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "TRAVEL TIME VIA I-65",
+                "message2": "KY    3 MI   4 MIN",
+                "message3": "I-264 9 MI  11 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1467,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">TRAVEL TIME VIA I-65<br>KY    3 MI   4 MIN<br>I-264 9 MI  11 MIN</p></div>",
+                "device_label": "3-062-147-4-EB-dms"
+            },
+            "idpropertyname": "dms-062-147-4-eb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.376476,
+                    39.965961
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 131.9 dms- 1475",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "SR-32   8 MI   8 MIN",
+                "message2": "SR-28  26 MI  22 MIN",
+                "message3": "SR-43  46 MI  40 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1475,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">SR-32   8 MI   8 MIN<br>SR-28  26 MI  22 MIN<br>SR-43  46 MI  40 MIN</p></div>",
+                "device_label": "1-065-131-9-NB-dms"
+            },
+            "idpropertyname": "1-065-131-9-NB-dms"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.27177,
+                    39.790147
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-465 / 14.8 dms- 1498",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "71st   6 MI    6 MIN",
+                "message2": "US421 12 MI   11 MIN",
+                "message3": "US31  16 MI   15 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1498,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">71st   6 MI    6 MIN<br>US421 12 MI   11 MIN<br>US31  16 MI   15 MIN</p></div>",
+                "device_label": "1-465-014-8-NB-dms"
+            },
+            "idpropertyname": "dms-465-014-7-nb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.272491,
+                    39.790707
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-465 / 14.7 dms- 1499",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "TO I-65 VIA",
+                "message2": "I-70E  14 MI  15 MIN",
+                "message3": "I-465  15 MI  17 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1499,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">TO I-65 VIA<br>I-70E  14 MI  15 MIN<br>I-465  15 MI  17 MIN</p></div>",
+                "device_label": "1-465-014-7-SB-dms"
+            },
+            "idpropertyname": "dms-465-014-8-sb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.285044,
+                    41.571923
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-94 / 12.6 dms- 1501",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "SR49  13 MI   13 MIN",
+                "message2": "US421 22 MI   20 MIN",
+                "message3": "MICH  33 MI   30 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1501,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">SR49  13 MI   13 MIN<br>US421 22 MI   20 MIN<br>MICH  33 MI   30 MIN</p></div>",
+                "device_label": "1-094-012-6-EB-dms"
+            },
+            "idpropertyname": "dms-094-012-6-eb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.983665,
+                    39.802278
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-70 / 92.1 dms- 1520",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "SR 9  12 MI   11 MIN",
+                "message2": "SR 3  31 MI   29 MIN",
+                "message3": "OHIO  64 MI   59 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1520,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">SR 9  12 MI   11 MIN<br>SR 3  31 MI   29 MIN<br>OHIO  64 MI   59 MIN</p></div>",
+                "device_label": "1-070-092-1-EB-dms"
+            },
+            "idpropertyname": "dms-070-092-1-eb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.720181,
+                    38.345919
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-265 / 8.6 dms- 1565",
+                "ontime": "2025-01-08T04:48:02-05:00",
+                "offtime": "2025-01-08T05:03:02-05:00",
+                "message1": "KY STATE LINE VIA",
+                "message2": "I-65   8 MI    8 MIN",
+                "message3": "I-64  11 MI   10 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1565,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">KY STATE LINE VIA<br>I-65   8 MI    8 MIN<br>I-64  11 MI   10 MIN</p></div>",
+                "device_label": "1-265-008-6-WB-dms"
+            },
+            "idpropertyname": "dms-265-008-6-wb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.835614,
+                    38.325392
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-265 / 1.9 dms- 1566",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "KY    4 MI    4 MIN",
+                "message2": "SR-64  6 MI    6 MIN",
+                "message3": "SR135 18 MI   18 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1566,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">KY    4 MI    4 MIN<br>SR-64  6 MI    6 MIN<br>SR135 18 MI   18 MIN</p></div>",
+                "device_label": "1-265-001-9-wb-_-dms-1"
+            },
+            "idpropertyname": "dms-265-001-9-wb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.778294,
+                    38.344933
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-265 / 5.4 dms- 1567",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "KY STATE LINE VIA",
+                "message2": "I-65   7 MI    6 MIN",
+                "message3": "SR265  8 MI    7 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1567,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">KY STATE LINE VIA<br>I-65   7 MI    6 MIN<br>SR265  8 MI    7 MIN</p></div>",
+                "device_label": "1-265-005-4-EB-dms"
+            },
+            "idpropertyname": "dms-265-005-4-eb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.752373,
+                    38.304348
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 2.8 dms- 1568",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "SR 60  4 MI    6 MIN",
+                "message2": "SR160 16 MI   16 MIN",
+                "message3": "SR56  26 MI   25 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1568,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">SR 60  4 MI    6 MIN<br>SR160 16 MI   16 MIN<br>SR56  26 MI   25 MIN</p></div>",
+                "device_label": "1-065-002-8-nb-_-dms-1"
+            },
+            "idpropertyname": "dms-065-002-8-nb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.84097,
+                    38.295959
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-64 / 122.4 dms- 1575",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "   TRAVEL TIME TO   ",
+                "message2": "265/65  7 MI  8 MIN",
+                "message3": "SR135  17 MI 17 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1575,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">   TRAVEL TIME TO   <br>265/65  7 MI  8 MIN<br>SR135  17 MI 17 MIN</p></div>",
+                "device_label": "1-064-122-4-wb-_-dms-1"
+            },
+            "idpropertyname": "dms-064-122-4-wb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.329008,
+                    39.685446
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-70 / 68.9 dms- 1583",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "SR-39   9 MI   8 MIN",
+                "message2": "SR-59  46 MI 400 MIN",
+                "message3": "ILL   69 MI 429 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1583,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">SR-39   9 MI   8 MIN<br>SR-59  46 MI 400 MIN<br>ILL   69 MI 429 MIN</p></div>",
+                "device_label": "1-070-068-9-WB-dms"
+            },
+            "idpropertyname": "dms-070-068-9-wb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.300974,
+                    39.695439
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-70 / 70.6 dms- 1584",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "70 THRU TRAFFIC VIA",
+                "message2": "I-70  19 MI   20 MIN",
+                "message3": "465S  21 MI   22 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1584,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">70 THRU TRAFFIC VIA<br>I-70  19 MI   20 MIN<br>465S  21 MI   22 MIN</p></div>",
+                "device_label": "1-070-070-6-EB-dms"
+            },
+            "idpropertyname": "dms-070-070-6-eb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.545045,
+                    40.163543
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 148.8 dms- 1588",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "SR 32  9 MI    9 MIN",
+                "message2": "I-865 20 MI   19 MIN",
+                "message3": "I-465 26 MI   26 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1588,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">SR 32  9 MI    9 MIN<br>I-865 20 MI   19 MIN<br>I-465 26 MI   26 MIN</p></div>",
+                "device_label": "1-065-148-8-SB-dms"
+            },
+            "idpropertyname": "dms-065-148-8-sb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.004344,
+                    40.006668
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "SR 37 / 172.2 dms- 1589",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "116TH   3 MI   3 MIN",
+                "message2": "96TH    6 MI   6 MIN",
+                "message3": "I-465   8 MI   8 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1589,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">116TH   3 MI   3 MIN<br>96TH    6 MI   6 MIN<br>I-465   8 MI   8 MIN</p></div>",
+                "device_label": "3-037-172-2-SB-dms"
+            },
+            "idpropertyname": "dms-037-172-2-sb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.101561,
+                    39.680514
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 104.4 dms- 1596",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "SR-252 24 MI  21 MIN",
+                "message2": "SR-46  36 MI  31 MIN",
+                "message3": "US-50  55 MI  49 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1596,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">SR-252 24 MI  21 MIN<br>SR-46  36 MI  31 MIN<br>US-50  55 MI  49 MIN</p></div>",
+                "device_label": "1-065-104-4-SB-dms"
+            },
+            "idpropertyname": "dms-065-104-4-sb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.727482,
+                    39.823356
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-70 / 106.1 dms- 1598",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "MTCOMF 10 MI   9 MIN",
+                "message2": "I-465  17 MI  15 MIN",
+                "message3": "I-65   23 MI  21 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1598,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">MTCOMF 10 MI   9 MIN<br>I-465  17 MI  15 MIN<br>I-65   23 MI  21 MIN</p></div>",
+                "device_label": "1-070-106-1-WB-dms"
+            },
+            "idpropertyname": "dms-070-106-1-wb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.555249,
+                    39.590088
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-70 / 55.0 dms- 1599",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "SR267 11 MI   10 MIN",
+                "message2": "I-465 18 MI   16 MIN",
+                "message3": "I-65  26 MI   24 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1599,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">SR267 11 MI   10 MIN<br>I-465 18 MI   16 MIN<br>I-65  26 MI   24 MIN</p></div>",
+                "device_label": "1-070-055-0-EB-dms"
+            },
+            "idpropertyname": "dms-070-055-0-eb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.795738,
+                    39.991884
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-69 / 217.0 dms- 1600",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "CAMPUS  7 MI   6 MIN",
+                "message2": "116TH  12 MI  10 MIN",
+                "message3": "I-465  17 MI  15 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1600,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">CAMPUS  7 MI   6 MIN<br>116TH  12 MI  10 MIN<br>I-465  17 MI  15 MIN</p></div>",
+                "device_label": "1-069-217-0-SB-dms"
+            },
+            "idpropertyname": "dms-1-069-217-0-sb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.987598,
+                    39.442324
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 86.5 dms- 1601",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "CO LN 14 MI  12 MIN",
+                "message2": "I-465 20 MI  18 MIN",
+                "message3": "I-70  24 MI  22 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1601,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">CO LN 14 MI  12 MIN<br>I-465 20 MI  18 MIN<br>I-70  24 MI  22 MIN</p></div>",
+                "device_label": "1-065-086-5-ns-_-dms-1"
+            },
+            "idpropertyname": "dms-065-086-4-nb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.614108,
+                    40.055713
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-69 / 228.3 dms- 1602",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "SR13  14 MI   12 MIN",
+                "message2": "116TH 23 MI   20 MIN",
+                "message3": "I-465 28 MI   25 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1602,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">SR13  14 MI   12 MIN<br>116TH 23 MI   20 MIN<br>I-465 28 MI   25 MIN</p></div>",
+                "device_label": "1-069-228-3-SB-dms"
+            },
+            "idpropertyname": "dms-1-069-228-3-sb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.881597,
+                    39.991128
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-69 / 212.4 dms- 1603",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "SR109 14 MI   12 MIN",
+                "message2": "SR18  52 MI   45 MIN",
+                "message3": "I-469 84 MI   73 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1603,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">SR109 14 MI   12 MIN<br>SR18  52 MI   45 MIN<br>I-469 84 MI   73 MIN</p></div>",
+                "device_label": "1-069-212-4-NB-dms"
+            },
+            "idpropertyname": "dms-1-069-212-4-nb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.134305,
+                    40.02857
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "US 31 / 131.2 dms- 1628",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "MAIN   4 MI    4 MIN",
+                "message2": "116TH  6 MI    6 MIN",
+                "message3": "I-465  8 MI    8 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1628,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">MAIN   4 MI    4 MIN<br>116TH  6 MI    6 MIN<br>I-465  8 MI    8 MIN</p></div>",
+                "device_label": "2-031-131-2-SB-dms"
+            },
+            "idpropertyname": "dms-031-131-2-sb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.157633,
+                    39.970925
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "US 31 / 126.2 dms- 1629",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "161ST  5 MI   5 MIN",
+                "message2": "191ST  8 MI   8 MIN",
+                "message3": "236TH 12 MI  13 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1629,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">161ST  5 MI   5 MIN<br>191ST  8 MI   8 MIN<br>236TH 12 MI  13 MIN</p></div>",
+                "device_label": "2-031-126-2-NB-dms"
+            },
+            "idpropertyname": "dms-031-126-2-nb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.157999,
+                    39.949311
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "US 31 / 124.7 dms- 1637",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "TRAVEL TIME TO",
+                "message2": "465W/865 7 MI  7 MIN",
+                "message3": "465E/69  8 MI  8 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1637,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">TRAVEL TIME TO<br>465W/865 7 MI  7 MIN<br>465E/69  8 MI  8 MIN</p></div>",
+                "device_label": "2-031-124-7-SB-dms"
+            },
+            "idpropertyname": "Us-31 SB @ 124.7"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.75015,
+                    38.278631
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 0.8 dms- 1644",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "TO I-264 VIA",
+                "message2": "I-65   7 MI   7 MIN",
+                "message3": "I-64E  9 MI   8 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1644,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">TO I-264 VIA<br>I-65   7 MI   7 MIN<br>I-64E  9 MI   8 MIN</p></div>",
+                "device_label": "1-065-000-8-sb-_-dms-1"
+            },
+            "idpropertyname": "dms-065-000-8-sb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.646611,
+                    38.345831
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-265 / 12.7 dms- 1645",
+                "ontime": "2025-01-08T04:48:02-05:00",
+                "offtime": "2025-01-08T05:03:02-05:00",
+                "message1": "I-65   6 MI    6 MIN",
+                "message2": "GRANT 10 MI   10 MIN",
+                "message3": "I-64  13 MI   13 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1645,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">I-65   6 MI    6 MIN<br>GRANT 10 MI   10 MIN<br>I-64  13 MI   13 MIN</p></div>",
+                "device_label": "1-265-012-7-WB-dms"
+            },
+            "idpropertyname": "dms-265-012-7-wb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.656873,
+                    38.349631
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-265 / 12.1 dms- 1646",
+                "ontime": "2025-01-08T04:48:02-05:00",
+                "offtime": "2025-01-08T05:03:02-05:00",
+                "message1": "I-71    5 MI   5 MIN",
+                "message2": "KY-146  9 MI   9 MIN",
+                "message3": "I-64   14 MI  14 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1646,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">I-71    5 MI   5 MIN<br>KY-146  9 MI   9 MIN<br>I-64   14 MI  14 MIN</p></div>",
+                "device_label": "1-265-012-1-EB-dms"
+            },
+            "idpropertyname": "dms-265-012-1-eb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.717794,
+                    38.344841
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-265 / 8.7 dms- 1647",
+                "ontime": "2025-01-08T04:48:02-05:00",
+                "offtime": "2025-01-08T05:03:02-05:00",
+                "message1": "KY      4 MI   4 MIN",
+                "message2": "I-71    8 MI   8 MIN",
+                "message3": "I-64   17 MI  16 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1647,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">KY      4 MI   4 MIN<br>I-71    8 MI   8 MIN<br>I-64   17 MI  16 MIN</p></div>",
+                "device_label": "1-265-008-7-EB-dms"
+            },
+            "idpropertyname": "dms-265-008-8-eb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.758805,
+                    38.381356
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 8.1 dms- 1661",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "SR-160 11 MI  10 MIN",
+                "message2": "SR-56  21 MI  19 MIN",
+                "message3": "US-50  41 MI  37 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1661,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">SR-160 11 MI  10 MIN<br>SR-56  21 MI  19 MIN<br>US-50  41 MI  37 MIN</p></div>",
+                "device_label": "1-065-008-1-nb-_-dms-1"
+            },
+            "idpropertyname": "I-65 @ SR 160"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.138735,
+                    41.604345
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-94 / 20.7 dms- 1690",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "SR-49  5 MI    5 MIN",
+                "message2": "US421 14 MI   12 MIN",
+                "message3": "MICH  25 MI   22 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1690,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">SR-49  5 MI    5 MIN<br>US421 14 MI   12 MIN<br>MICH  25 MI   22 MIN</p></div>",
+                "device_label": "1-094-020-7-EB-dms"
+            },
+            "idpropertyname": "dms-094-020-7-eb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.295325,
+                    41.229006
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 235.8 dms- 1693",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "   TRAVEL TIME TO   ",
+                "message2": "I-94   24 MI  21 MIN",
+                "message3": "94/ILL 35 MI  33 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1693,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">   TRAVEL TIME TO   <br>I-94   24 MI  21 MIN<br>94/ILL 35 MI  33 MIN</p></div>",
+                "device_label": "1-065-235-8-NB-dms"
+            },
+            "idpropertyname": "dms-065-235-8-nb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.321668,
+                    41.435255
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 250.4 dms- 1696",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "SR-2   10 MI   9 MIN",
+                "message2": "SR-14  30 MI  25 MIN",
+                "message3": "SR-18  62 MI  55 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1696,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">SR-2   10 MI   9 MIN<br>SR-14  30 MI  25 MIN<br>SR-18  62 MI  55 MIN</p></div>",
+                "device_label": "1-065-250-4-SB-dms"
+            },
+            "idpropertyname": "1-065-250-3-SB-dms"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.981118,
+                    41.650391
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-94 / 29.9 dms- 1697",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "I-90  14 MI   13 MIN",
+                "message2": "I-65  18 MI   16 MIN",
+                "message3": "ILL   30 MI   29 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1697,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">I-90  14 MI   13 MIN<br>I-65  18 MI   16 MIN<br>ILL   30 MI   29 MIN</p></div>",
+                "device_label": "1-094-029-9-WB-dms"
+            },
+            "idpropertyname": "dms-094-029-9-wb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.771035,
+                    41.747534
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-94 / 44.5 dms- 1698",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "US421 10 MI    9 MIN",
+                "message2": "SR49  18 MI   17 MIN",
+                "message3": "I-90  29 MI   26 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1698,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">US421 10 MI    9 MIN<br>SR49  18 MI   17 MIN<br>I-90  29 MI   26 MIN</p></div>",
+                "device_label": "1-094-044-5-WB-dms"
+            },
+            "idpropertyname": "dms-094-044-5-wb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.116156,
+                    41.148272
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-69 / 313.7 dms- 1713",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "SR-8  15 MI   13 MIN",
+                "message2": "US20  34 MI   30 MIN",
+                "message3": "MICH  44 MI   39 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1713,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">SR-8  15 MI   13 MIN<br>US20  34 MI   30 MIN<br>MICH  44 MI   39 MIN</p></div>",
+                "device_label": "1-069-313-7-NB-dms"
+            },
+            "idpropertyname": "dms-1-069-313-7-n"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.026656,
+                    41.154586
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-469 / 26.5 dms- 1714",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "   TRAVEL TIME TO   ",
+                "message2": "69S/US30 9 MI  9 MIN",
+                "message3": "69N/SR8 18 MI 16 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1714,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">   TRAVEL TIME TO   <br>69S/US30 9 MI  9 MIN<br>69N/SR8 18 MI 16 MIN</p></div>",
+                "device_label": "1-469-026-5-wb-_-dms-1"
+            },
+            "idpropertyname": "dms-1-469-026-5-n"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.206764,
+                    40.953103
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-469 / 4.5 dms- 1715",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "   TRAVEL TIME TO   ",
+                "message2": "69N/SR3 18 MI 17 MIN",
+                "message3": "69S/SR5 24 MI 23 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1715,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">   TRAVEL TIME TO   <br>69N/SR3 18 MI 17 MIN<br>69S/SR5 24 MI 23 MIN</p></div>",
+                "device_label": "1-469-004-5-SB-dms"
+            },
+            "idpropertyname": "dms-1-469-004-5-s"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.209097,
+                    41.100192
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-69 / 307.4 dms- 1716",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "I-469  8 MI    7 MIN",
+                "message2": "SR-8  22 MI   19 MIN",
+                "message3": "SR-4  33 MI   28 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1716,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">I-469  8 MI    7 MIN<br>SR-8  22 MI   19 MIN<br>SR-4  33 MI   28 MIN</p></div>",
+                "device_label": "1-069-307-4-NB-dms"
+            },
+            "idpropertyname": "dms-1-069-307-4-n"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.206525,
+                    41.103311
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-69 / 307.6 dms- 1717",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "I-469  11 MI  10 MIN",
+                "message2": "US224  21 MI  19 MIN",
+                "message3": "SR-18  43 MI  40 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1717,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">I-469  11 MI  10 MIN<br>US224  21 MI  19 MIN<br>SR-18  43 MI  40 MIN</p></div>",
+                "device_label": "1-069-307-6-SB-dms"
+            },
+            "idpropertyname": "dms-1-069-307-6-s"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.276619,
+                    40.980647
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-69 / 298.2 dms- 1718",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "US224 12 MI   11 MIN",
+                "message2": "SR-18 34 MI   32 MIN",
+                "message3": "I-465 98 MI   90 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1718,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">US224 12 MI   11 MIN<br>SR-18 34 MI   32 MIN<br>I-465 98 MI   90 MIN</p></div>",
+                "device_label": "1-069-298-1-SB-dms"
+            },
+            "idpropertyname": "dms-1-069-298-1-s"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.837716,
+                    38.924822
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 47.2 dms- 1719",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "SR-58  16 MI  15 MIN",
+                "message2": "US-31  28 MI  26 MIN",
+                "message3": "I-465  59 MI  53 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1719,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">SR-58  16 MI  15 MIN<br>US-31  28 MI  26 MIN<br>I-465  59 MI  53 MIN</p></div>",
+                "device_label": "1-065-047-2-nb-_-dms-1"
+            },
+            "idpropertyname": "dms-065-047-2-nb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.510421773,
+                    40.102723534
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 144.2 dms- 1721",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "SR-28  14 MI  12 MIN",
+                "message2": "SR-43  34 MI  30 MIN",
+                "message3": "US-24  57 MI  50 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1721,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">SR-28  14 MI  12 MIN<br>SR-43  34 MI  30 MIN<br>US-24  57 MI  50 MIN</p></div>",
+                "device_label": "1-065-144-2-nb-_-dms-1"
+            },
+            "idpropertyname": "1-065-144-2-NB-dms"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.764099563,
+                    40.341952049,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 166.0 dms- 1722",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "SR-43  12 MI  10 MIN",
+                "message2": "US-24  35 MI  31 MIN",
+                "message3": "SR-10  64 MI  55 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1722,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">SR-43  12 MI  10 MIN<br>US-24  35 MI  31 MIN<br>SR-10  64 MI  55 MIN</p></div>",
+                "device_label": "1-065-166-0-NB-dms"
+            },
+            "idpropertyname": "1-065-166-0-NB-dms"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.8035975,
+                    40.403848745
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 170.8 dms- 1723",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "SR-28  13 MI  11 MIN",
+                "message2": "SR-39  32 MI  27 MIN",
+                "message3": "I-465  48 MI  45 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1723,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">SR-28  13 MI  11 MIN<br>SR-39  32 MI  27 MIN<br>I-465  48 MI  45 MIN</p></div>",
+                "device_label": "1-065-170-8-SB-dms"
+            },
+            "idpropertyname": "1-065-170-8-SB-dms"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.907358255,
+                    40.531910443
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 181.5 dms- 1724",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "SR-26   9 MI   8 MIN",
+                "message2": "SR-28  24 MI  21 MIN",
+                "message3": "I-865  53 MI  49 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1724,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">SR-26   9 MI   8 MIN<br>SR-28  24 MI  21 MIN<br>I-865  53 MI  49 MIN</p></div>",
+                "device_label": "1-065-181-5-SB-dms"
+            },
+            "idpropertyname": "1-065-181-5-SB-dms"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.992582503,
+                    40.621040458,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 189.2 dms- 1725",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "US-24  12 MI  11 MIN",
+                "message2": "SR-14  31 MI  28 MIN",
+                "message3": "US-30  64 MI  54 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1725,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">US-24  12 MI  11 MIN<br>SR-14  31 MI  28 MIN<br>US-30  64 MI  54 MIN</p></div>",
+                "device_label": "1-065-189-2-NB-dms"
+            },
+            "idpropertyname": "1-065-189-2-NB-dms"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.079511767,
+                    40.718560787
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 197.5 dms- 1726",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "SR-18   9 MI   9 MIN",
+                "message2": "SR-26  25 MI  23 MIN",
+                "message3": "SR-47  52 MI  46 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1726,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">SR-18   9 MI   9 MIN<br>SR-26  25 MI  23 MIN<br>SR-47  52 MI  46 MIN</p></div>",
+                "device_label": "1-065-197-5-SB-dms"
+            },
+            "idpropertyname": "1-065-197-5-SB-dms"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.255716174,
+                    40.983599275,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 218.3 dms- 1727",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "SR-10  11 MI  10 MIN",
+                "message2": "US-30  34 MI  29 MIN",
+                "message3": "94/ILL 52 MI  45 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1727,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">SR-10  11 MI  10 MIN<br>US-30  34 MI  29 MIN<br>94/ILL 52 MI  45 MIN</p></div>",
+                "device_label": "1-065-218-3-NB-dms"
+            },
+            "idpropertyname": "1-065-218-3-NB-dms"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.270808423,
+                    41.070630389
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 224.5 dms- 1728",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "SR-114 10 MI   9 MIN",
+                "message2": "US-24  23 MI  21 MIN",
+                "message3": "SR-26  52 MI  48 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1728,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">SR-114 10 MI   9 MIN<br>US-24  23 MI  21 MIN<br>SR-26  52 MI  48 MIN</p></div>",
+                "device_label": "1-065-224-5-SB-dms"
+            },
+            "idpropertyname": "1-065-224-5-SB-dms"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.460801406,
+                    39.392216505,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-69 / 135.6 dms- 1729",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "SR-252  4 MI   4 MIN",
+                "message2": "SR-144 17 MI  17 MIN",
+                "message3": "I-465  27 MI  29 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1729,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">SR-252  4 MI   4 MIN<br>SR-144 17 MI  17 MIN<br>I-465  27 MI  29 MIN</p></div>",
+                "device_label": "1-069-135-6-NB-dms"
+            },
+            "idpropertyname": "1-069-135-6-NB-dms"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.202417433,
+                    39.646292688,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-69 / 159.1 dms- 1730",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "I-465    4 MI  8 MIN",
+                "message2": "465E/65  8 MI 12 MIN",
+                "message3": "465W/70  9 MI 13 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1730,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">I-465    4 MI  8 MIN<br>465E/65  8 MI 12 MIN<br>465W/70  9 MI 13 MIN</p></div>",
+                "device_label": "1-069-159-1-nb-_-dms-1"
+            },
+            "idpropertyname": "1-069-159-1-nb-_-dms-1"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.284575101,
+                    39.531826811,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-69 / 149.6 dms- 1731",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "S VALLEY 6 MI  6 MIN",
+                "message2": "CO LINE  9 MI  8 MIN",
+                "message3": "I-465   13 MI 16 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1731,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">S VALLEY 6 MI  6 MIN<br>CO LINE  9 MI  8 MIN<br>I-465   13 MI 16 MIN</p></div>",
+                "device_label": "1-069-149-6-nb-_-dms-1"
+            },
+            "idpropertyname": "1-069-149-6"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.958163782,
+                    39.157329331,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 65.4 dms- 1732",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "US-31  10 MI   9 MIN",
+                "message2": "SR-44  24 MI  21 MIN",
+                "message3": "I-465  41 MI  36 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1732,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">US-31  10 MI   9 MIN<br>SR-44  24 MI  21 MIN<br>I-465  41 MI  36 MIN</p></div>",
+                "device_label": "1-065-065-4-nb-_-dms-1"
+            },
+            "idpropertyname": "dms-1-065-065-4-nb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.958163782,
+                    39.157329331,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 65.4 dms- 1733",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "US-50  16 MI  14 MIN",
+                "message2": "SR-56  36 MI  32 MIN",
+                "message3": "I-265  60 MI  53 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1733,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">US-50  16 MI  14 MIN<br>SR-56  36 MI  32 MIN<br>I-265  60 MI  53 MIN</p></div>",
+                "device_label": "1-065-065-4-sb-_-dms-2"
+            },
+            "idpropertyname": "dms-1-065-065-4-sb"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.527797696,
+                    39.437263782,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-70 / 0.2 dms- 1734",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "SR-641 11 MI  10 MIN",
+                "message2": "SR-59  22 MI  20 MIN",
+                "message3": "US-231 41 MI  36 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1734,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">SR-641 11 MI  10 MIN<br>SR-59  22 MI  20 MIN<br>US-231 41 MI  36 MIN</p></div>",
+                "device_label": "1-070-000-2-EB-dms"
+            },
+            "idpropertyname": "1-070-000-2-EB-dms"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.361014932,
+                    39.430668428,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-70 / 9.7 dms- 1735",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "SR-59  13 MI  11 MIN",
+                "message2": "US-231 31 MI  27 MIN",
+                "message3": "SR-39  49 MI  44 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1735,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">SR-59  13 MI  11 MIN<br>US-231 31 MI  27 MIN<br>SR-39  49 MI  44 MIN</p></div>",
+                "device_label": "1-070-009-7-EB-dms"
+            },
+            "idpropertyname": "1-070-009-7-EB-dms"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.242461363,
+                    39.445718843,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-70 / 16.3 dms- 1736",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "SR-641  5 MI   5 MIN",
+                "message2": "US-41   9 MI   9 MIN",
+                "message3": "ILL    16 MI  16 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1736,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">SR-641  5 MI   5 MIN<br>US-41   9 MI   9 MIN<br>ILL    16 MI  16 MIN</p></div>",
+                "device_label": "1-070-016-3-WB-dms"
+            },
+            "idpropertyname": "1-070-016-3-WB-dms"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.616071371,
+                    39.825905304,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-70 / 111.9 dms- 1737",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "SR-3   11 MI  10 MIN",
+                "message2": "SR-1   25 MI  23 MIN",
+                "message3": "OHIO   44 MI  40 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1737,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">SR-3   11 MI  10 MIN<br>SR-1   25 MI  23 MIN<br>OHIO   44 MI  40 MIN</p></div>",
+                "device_label": "1-070-111-9-EB-dms"
+            },
+            "idpropertyname": "1-070-111-9-EB-dms"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.353672725,
+                    39.852647788,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-70 / 126.2 dms- 1738",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "SR-109 11 MI  10 MIN",
+                "message2": "SR-9   22 MI  20 MIN",
+                "message3": "I-465  37 MI  33 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1738,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">SR-109 11 MI  10 MIN<br>SR-9   22 MI  20 MIN<br>I-465  37 MI  33 MIN</p></div>",
+                "device_label": "1-070-126-2-WB-dms"
+            },
+            "idpropertyname": "1-070-126-2-WB-dms"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.220622204,
+                    39.853453821,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-70 / 133.3 dms- 1739",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "CNTRVL 12 MI  10 MIN",
+                "message2": "US-27  18 MI  16 MIN",
+                "message3": "OHIO   23 MI  20 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1739,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">CNTRVL 12 MI  10 MIN<br>US-27  18 MI  16 MIN<br>OHIO   23 MI  20 MIN</p></div>",
+                "device_label": "1-070-133-3-EB-dms"
+            },
+            "idpropertyname": "1-070-133-3-EB-dms"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -85.066410861,
+                        39.853660804,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-70 / 141.5 dms- 1740",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "SR-3   19 MI  16 MIN",
+                "message2": "SR-9   38 MI  33 MIN",
+                "message3": "I-465  53 MI  46 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1740,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">SR-3   19 MI  16 MIN<br>SR-9   38 MI  33 MIN<br>I-465  53 MI  46 MIN</p></div>",
+                "device_label": "1-070-141-5-WB-dms"
+            },
+            "idpropertyname": "1-070-141-5-WB-dms"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.778679926,
+                    38.570584517,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 21.3 dms- 1748",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "MEMPHIS 6 MI   5 MIN",
+                "message2": "I-265  16 MI  14 MIN",
+                "message3": "KY     21 MI  19 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1748,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">MEMPHIS 6 MI   5 MIN<br>I-265  16 MI  14 MIN<br>KY     21 MI  19 MIN</p></div>",
+                "device_label": "1-065-021-3-SB-dms"
+            },
+            "idpropertyname": "I-65 SB @ 21.3"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.783595334,
+                    38.645551768,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 26.5 dms- 1749",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "US-31  10 MI   8 MIN",
+                "message2": "US-50  23 MI  20 MIN",
+                "message3": "SR-46  42 MI  37 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1749,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">US-31  10 MI   8 MIN<br>US-50  23 MI  20 MIN<br>SR-46  42 MI  37 MIN</p></div>",
+                "device_label": "1-065-026-5-NB-dms"
+            },
+            "idpropertyname": "I-65 NB @ 26.5"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.797034553,
+                    38.711624202,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 31.2 dms- 1750",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "SR-160 12 MI  11 MIN",
+                "message2": "I-265  26 MI  23 MIN",
+                "message3": "KY     31 MI  28 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1750,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">SR-160 12 MI  11 MIN<br>I-265  26 MI  23 MIN<br>KY     31 MI  28 MIN</p></div>",
+                "device_label": "1-065-031-2-SB-dms"
+            },
+            "idpropertyname": "I-65 SB @ 31.2"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.849152881,
+                    38.995853922,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 52.2 dms- 1751",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "US-31  15 MI  14 MIN",
+                "message2": "SR-56  23 MI  20 MIN",
+                "message3": "I-265  46 MI  42 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1751,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">US-31  15 MI  14 MIN<br>SR-56  23 MI  20 MIN<br>I-265  46 MI  42 MIN</p></div>",
+                "device_label": "1-065-052-2-dms"
+            },
+            "idpropertyname": "I-65 SB @ 52.2"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.954541899,
+                    39.243968105,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 71.3 dms- 1752",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "SR-252  9 MI   8 MIN",
+                "message2": "SR-44  18 MI  16 MIN",
+                "message3": "I-465  35 MI  30 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1752,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">SR-252  9 MI   8 MIN<br>SR-44  18 MI  16 MIN<br>I-465  35 MI  30 MIN</p></div>",
+                "device_label": "1-065-071-3-NB-dms"
+            },
+            "idpropertyname": "I-65 NB @ 71.3"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.94256,
+                    39.34783
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 79.0 dms- 1753",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "SR-46  11 MI   9 MIN",
+                "message2": "US-50  29 MI  26 MIN",
+                "message3": "SR-56  50 MI  44 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1753,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">SR-46  11 MI   9 MIN<br>US-50  29 MI  26 MIN<br>SR-56  50 MI  44 MIN</p></div>",
+                "device_label": "1-065-079-0-dms"
+            },
+            "idpropertyname": "I-65 @ 79.0 SB"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.026659359,
+                    39.526501332,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-65 / 92.7 dms- 1754",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "US-31  17 MI  15 MIN",
+                "message2": "SR-58  29 MI  25 MIN",
+                "message3": "US-50  43 MI  38 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1754,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">US-31  17 MI  15 MIN<br>SR-58  29 MI  25 MIN<br>US-50  43 MI  38 MIN</p></div>",
+                "device_label": "1-065-092-7-dms"
+            },
+            "idpropertyname": "I-65 @ 92.7 SB"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.227683507,
+                    39.59323442,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-69 / 154.9 dms- 1755",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "SR-44  14 MI  13 MIN",
+                "message2": "SR-39  18 MI  16 MIN",
+                "message3": "SR-46  35 MI  31 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1755,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">SR-44  14 MI  13 MIN<br>SR-39  18 MI  16 MIN<br>SR-46  35 MI  31 MIN</p></div>",
+                "device_label": "1-069-154-9-sb-_-dms-1"
+            },
+            "idpropertyname": "I-69 @154.9"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.830105804,
+                    38.284701137
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-64 / 123.4 dms- 1756",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "TO I-65 VIA",
+                "message2": "I-64    5 MI   7 MIN",
+                "message3": "I-264  13 MI  14 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1756,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">TO I-65 VIA<br>I-64    5 MI   7 MIN<br>I-264  13 MI  14 MIN</p></div>",
+                "device_label": "1-064-123-4-ebr-_-dms-1"
+            },
+            "idpropertyname": "I-64 @ 123.4-EBr-dms"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.830032434,
+                    38.286020783,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-64 / 123.3 dms- 1757",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "TO I-65 VIA",
+                "message2": "I-64    5 MI   7 MIN",
+                "message3": "I-264  13 MI  14 MIN",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1757,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">TO I-65 VIA<br>I-64    5 MI   7 MIN<br>I-264  13 MI  14 MIN</p></div>",
+                "device_label": "1-064-123-3-eb-_-dms-1"
+            },
+            "idpropertyname": "1-064-123-3-EB-dms"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.367914,
+                    39.475853
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-69 / 143.7 dms- 1758",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "SR-144  9 MI   8 MIN",
+                "message2": "I-465  19 MI  18 MIN",
+                "message3": "",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1758,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">SR-144  9 MI   8 MIN<br>I-465  19 MI  18 MIN<br></p></div>",
+                "device_label": "1-069-143-7-nb-_-dms-1"
+            },
+            "idpropertyname": "1-069-143-7-nb-_-dms-1"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.337977,
+                    39.49874
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-69 / 146.0 dms- 1759",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "SR-39   9 MI   8 MIN",
+                "message2": "SR-46  26 MI  23 MIN",
+                "message3": "",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1759,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">SR-39   9 MI   8 MIN<br>SR-46  26 MI  23 MIN<br></p></div>",
+                "device_label": "1-069-146-0-sb-_-dms"
+            },
+            "idpropertyname": "1-069-146-0-sb-_-dms"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.234479,
+                    39.583392
+                ]
+            },
+            "properties": {
+                "icon": "dms-icon",
+                "title": "I-69 / 154.3 dms- 1760",
+                "ontime": "2025-01-08T04:48:06-05:00",
+                "offtime": "2025-01-08T05:03:06-05:00",
+                "message1": "CO LINE  4 MI  3 MIN",
+                "message2": "I-465    8 MI  7 MIN",
+                "message3": "",
+                "priority": 9,
+                "asset_type": "dms",
+                "device_nbr": 1760,
+                "description": "<div style=\"background-color:blue; text-align:center; font-family:courier;\"><p style=\"color:#FEFEFE\">CO LINE  4 MI  3 MIN<br>I-465    8 MI  7 MIN<br></p></div>",
+                "device_label": "1-069-154-3-nb-_-dms-1"
+            },
+            "idpropertyname": "1-069-154-3-nb-_-dms-1"
+        }
+    ],
+    "timestamp": "2025-01-08T04:50:41.289811-05:00"
+}
